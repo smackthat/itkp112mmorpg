@@ -1,0 +1,4 @@
+itkp112mmorpg
+=============
+
+Harjoitustehtävä
